@@ -26,7 +26,6 @@ As a Junior DevOps learner, I’ve pulled off a slick setup and a working mini-a
 - **Container**: Docker with `jupyter/minimal-notebook`.
 - **Tool**: Jupyter Lab (browser at `http://localhost:7000`).
 - **Code**: Python (`requests`, `datetime`) + Markdown.
-- **Tutor**: xAI’s Grok—guided me step-by-step!
 
 ## Tutor’s Grade & Notes
 **Grade**: A+  
@@ -46,5 +45,3 @@ In the real world, this project’s a mini-slice of what DevOps and AI can do in
 1. Install Docker on Ubuntu.
 2. Run: `docker run -p 7000:8888 -d jupyter/minimal-notebook`.
 3. Open `http://localhost:7000`, upload `ai_greeter.ipynb`, and hit “Run All”!
-
-*Built with xAI’s Grok—my AI tutor who made this adventure epic!*
